@@ -82,6 +82,27 @@ long-term scalability goals.
 
 ---
 
+## ☁ PHPHR Cloud
+
+PHPHR Cloud is a fully managed, enterprise-grade HR management solution built
+for growing and large organizations that require scalability, reliability,
+and minimal infrastructure management. With PHPHR Cloud, businesses benefit
+from automatic updates, secure cloud hosting, data backups, performance
+optimization, and ongoing platform enhancements.
+
+The cloud edition eliminates the need for server maintenance and technical
+overhead, enabling HR teams to focus entirely on workforce management, process
+efficiency, and organizational growth.
+
+
+## 🎥 Demo Video
+
+Watch the official PHPHR demo walkthrough to explore employee management,
+attendance tracking, leave workflows, payroll processing, and dashboard
+features in action:
+
+▶️ https://youtu.be/nfCiNBBcwec?si=ggUVwILo-NG2rlf2
+
 ## 🌐 Links
 
 - Website: https://www.phphr.com  
