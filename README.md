@@ -1,60 +1,61 @@
 # PHPHR – Open Source HR Management Software
 
-PHPHR is a Human Resource Management (HRM) platform available in two flexible
-deployment models, enabling organizations to choose the approach that best
-fits their operational needs, data policies, and long-term growth strategy.
+PHPHR is a modern Human Resource Management (HRM) platform available in two
+flexible deployment models, enabling organizations to choose the approach that
+best fits their operational needs, data policies, and long-term growth
+strategy.
 
-• **PHPHR Open-Source** – A free, self-hosted edition designed for startups,
-small to mid-sized businesses, and organizations that prefer full control
-over their hosting environment, infrastructure, and HR data. This edition
-provides essential HR capabilities such as employee management, attendance
-tracking, leave management, payroll processing, and an HR dashboard, while
-allowing complete customization and on-premise deployment.
+- **PHPHR Open-Source** – A free, self-hosted edition designed for startups,
+  small to mid-sized businesses, and organizations that require full control
+  over their hosting environment, infrastructure, and HR data. This edition
+  provides essential HR capabilities such as employee management, attendance
+  tracking, leave management, payroll processing, and an intuitive HR
+  dashboard, while allowing complete customization and on-premise deployment.
 
-• **PHPHR Cloud** – A fully managed, enterprise-grade HRMS built for growing
-and large organizations that require scalability, reliability, and minimal
-technical overhead. PHPHR Cloud includes secure cloud hosting, automatic
-updates, regular backups, performance optimization, enhanced security
-standards, and dedicated support. It enables HR teams to focus entirely on
-workforce operations and strategic initiatives without the burden of server
-management or infrastructure maintenance.
-
-
+- **PHPHR Cloud** – A fully managed, enterprise-grade HRMS built for growing
+  and large organizations that require scalability, reliability, and minimal
+  technical overhead. PHPHR Cloud includes secure cloud hosting, automatic
+  updates, regular backups, performance optimization, enhanced security
+  standards, and dedicated support. It enables HR teams to focus entirely on
+  workforce operations and strategic initiatives without the burden of server
+  management or infrastructure maintenance.
 
 ---
 
 ## 🚀 Features (Open-Source Edition)
 
-- Employee Management
-- Attendance Tracking
-- Leave Management
-- Payroll Management
-- HR Dashboard
-- Secure Login System
+- Employee Management  
+- Attendance Tracking  
+- Leave Management  
+- Payroll Management  
+- HR Dashboard  
+- Secure Authentication System  
 
 ---
 
 ## ☁ Deployment Models
 
-PHPHR is available in two deployment models:
+PHPHR is available in two deployment options:
 
-- **PHPHR Open-Source** – Free, self-hosted HR software
-- **PHPHR Cloud** – Fully managed, enterprise-grade HRMS
+- **PHPHR Open-Source** – Free, self-hosted HR software  
+- **PHPHR Cloud** – Fully managed, enterprise-grade HRMS  
 
-This flexibility allows organizations to choose the deployment approach that
-best aligns with their hosting preferences, data governance policies, and
-long-term scalability goals.
+This flexibility allows organizations to select the deployment model that best
+aligns with their hosting preferences, data governance policies, and long-term
+scalability goals.
 
 ---
 
 ## 🛠 Technology Stack
 
-- PHP 7.4+ (PHP 8+ recommended)
-- MySQL / MariaDB
-- Apache or Nginx
-- Bootstrap-based UI
+- PHP 7.4+ (PHP 8+ recommended)  
+- MySQL / MariaDB  
+- Apache or Nginx  
+- Bootstrap-based User Interface  
 
 ---
+
+
 
 ## 📦 Installation
 
@@ -92,16 +93,16 @@ long-term scalability goals.
 
 ## ☁ PHPHR Cloud
 
-PHPHR Cloud is a fully managed, enterprise-grade HR management solution built
-for growing and large organizations that require scalability, reliability,
-and minimal infrastructure management. With PHPHR Cloud, businesses benefit
-from automatic updates, secure cloud hosting, data backups, performance
-optimization, and ongoing platform enhancements.
+PHPHR Cloud is a fully managed, enterprise-grade HR management solution designed
+for organizations that require high availability, security, and scalability.
+It provides automatic updates, secure cloud infrastructure, routine backups,
+performance optimization, and continuous platform enhancements.
 
-The cloud edition eliminates the need for server maintenance and technical
-overhead, enabling HR teams to focus entirely on workforce management, process
-efficiency, and organizational growth.
+The cloud edition removes server maintenance and technical complexity, allowing
+HR teams to focus entirely on workforce management, operational efficiency, and
+organizational growth.
 
+---
 
 ## 🎥 Demo Video
 
@@ -111,28 +112,47 @@ features in action:
 
 ▶️ https://youtu.be/nfCiNBBcwec?si=ggUVwILo-NG2rlf2
 
+---
+
 ## 🌐 Links
 
-- Website: https://www.phphr.com  
-- Live Demo: https://www.phphr.com/hr-software-demo/  
-- Download: https://www.phphr.com/download-hr-software/
+- **Website:** https://www.phphr.com  
+- **Live Demo:** https://www.phphr.com/hr-software-demo/  
+- **Download:** https://www.phphr.com/download-hr-software/  
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome!  
-You can help by submitting bug reports, feature requests, or pull requests to
-improve PHPHR Open Source.
+You can help improve PHPHR by submitting bug reports, feature requests, or pull
+requests to enhance the Open-Source edition.
 
 ---
 
 ## 📄 License
 
 PHPHR is released under the **MIT Open Source License**.  
-You are free to use, modify, rebrand, and deploy it commercially, provided this
-copyright notice is preserved.
+You are free to use, modify, rebrand, and deploy this software commercially,
+provided that the original copyright notice is preserved.
 
 ---
 
-⭐ If you find PHPHR useful, please **star the repository** to support the project!
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+![PHPHR Dashboard](screenshots/login.png)
+
+### Employee Management
+![Employee Management](screenshots/dashboard.png)
+
+
+
+
+
+⭐ If you find PHPHR useful, please **star this repository** to support the
+project!
+
