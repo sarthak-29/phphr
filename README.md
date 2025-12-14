@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/status-stable-success)
 [![Security](https://img.shields.io/badge/security-policy-blue)](SECURITY.md)
 ![GitHub release](https://img.shields.io/github/v/release/phphrm/phphr)
+[![Website](https://img.shields.io/badge/website-phphr.com-blue)](https://www.phphr.com)
+
 
 
 # PHPHR – Open Source HR Management Software
