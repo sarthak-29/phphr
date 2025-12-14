@@ -1,11 +1,22 @@
-![Release](https://img.shields.io/badge/version-3.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
-![Status](https://img.shields.io/badge/status-stable-success)
-[![Security](https://img.shields.io/badge/security-policy-blue)](SECURITY.md)
-![GitHub release](https://img.shields.io/github/v/release/phphrm/phphr)
-[![Website](https://img.shields.io/badge/website-phphr.com-blue)](https://www.phphr.com)
+<p align="center">
+  <a href="https://www.phphr.com" target="_blank">
+    <img src="[https://www.phphr.com/wp-content/uploads/logo.png](https://www.phphr.com/wp-content/uploads/logo.png)" alt="PHPHR Logo" width="160">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-3.0.0-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/badge/PHP-7.4%2B-purple" />
+  <img src="https://img.shields.io/badge/status-stable-success" />
+  <a href="SECURITY.md">
+    <img src="https://img.shields.io/badge/security-policy-blue" />
+  </a>
+  <img src="https://img.shields.io/github/v/release/phphrm/phphr" />
+  <a href="https://www.phphr.com">
+    <img src="https://img.shields.io/badge/website-phphr.com-blue" />
+  </a>
+</p>
 
 
 # PHPHR – Open Source HR Management Software
