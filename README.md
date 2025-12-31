@@ -172,9 +172,6 @@ provided that the original copyright notice is preserved.
 ### Dashboard
 ![PHPHR Dashboard](screenshots/login.png)
 
-### Employee Management
-![Employee Management](screenshots/dashboard.png)
-
 
 
 
